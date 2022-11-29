@@ -1,0 +1,22 @@
+Population Regression Model
+e -> Error 오차
+
+The Sample Counterpart
+e -> residual 잔차
+
+다중선형회귀모델
+OLS estimators.
+
+X'X Inverse Matrix 존재 X -> 계수 구할수 없다.
+
+**선형회귀모형 가정 8가지 기말문제 출제예정
+
+R-square 결정계수 그림
+큰 화살표 -> y 분산 제곱
+작은 화살표 -> 잔차 제곱 
+100 스케일링을 위한 계수
+x가 y를 설명하는 정도
+R-square 높으면 높을수록 모형의 설명력이 높다
+Adjusted R-square -> x data 늘어날수록 r계수 늘어나는 점을 보정
+
+Overfitting -> Goodness of Fit / Prediction Power 간 차이가 많이 나는 경우

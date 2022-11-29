@@ -1,0 +1,10 @@
+if) 오차의 자기상관 문제 == True
+잔차가 클러스터링 되어 있다.
+
+차분
+ex)
+수익율 : y(t) - y(t - 1) / y(t - 1) 
+-> ln{y(t) / y(t - 1)} 에 근사
+-> ln(y(t)) - ln(y(t -1)) 
+Price Log Transformation -> Difference Expression
+
